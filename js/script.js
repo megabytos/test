@@ -10,6 +10,7 @@ console.log(arr[2]['a']);
 console.log(arr[2].b);
 console.log(arr[3](9));
 
+console.log(typeof(arr[1]));
 
 const age = prompt('Укажите ваш возраст');
 
